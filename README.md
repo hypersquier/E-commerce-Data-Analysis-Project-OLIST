@@ -23,7 +23,9 @@ This project delivers a deep and comprehensive analysis of the Brazilian E-comme
 - Average Delivery Time: The mean number of days required to fulfill and deliver an order, a critical logistics metric.
 ## Usage
 - data Source : [https://github.com/hypersquier/Amazon-Data-Analysis-Project/blob/main/amazon.csv](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
-- Project link :
+- Sql code : https://github.com/hypersquier/E-commerce-Data-Analysis-Project-OLIST/blob/main/create_dashboard_view.sql
+- Final Olist E-commerce Performance Dashboard : https://github.com/hypersquier/E-commerce-Data-Analysis-Project-OLIST/blob/main/Brazilian%20E-Commerce%20Public%20Dataset%20by%20Olist.pbix
+- Final E-commerce Data Analysis Report (PowerPoint) : https://github.com/hypersquier/E-commerce-Data-Analysis-Project-OLIST/blob/main/E-commerce%20Data%20Analysis%20Project%20(OLIST).pptx
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for improvements.
